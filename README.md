@@ -20,6 +20,7 @@ the input. A [U-Net based segmentation model](https://github.com/JoHof/lungmask)
 
 The detailed COVID-Facts's structure and methodology is explained in detail 
 at https://arxiv.org/pdf/2107.01527.
+<img src="https://github.com/ct-segmentation/COVID-Rate/blob/main/Figurespipeline.png" width="500" height="350"/>
 
 Dataset: COVID-CT-Rate
 ---
