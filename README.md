@@ -32,4 +32,10 @@ The available code contains:
 * De-identification of DICOM files
 * Synthetic data generation method
 * Segmentation Network
-* Certainty index for Unsupervised Enhancement approach 
+* Certainty index for Unsupervised Enhancement approach
+
+## Citation
+If you found this dataset and the related paper helpful for your research, please consider citing:
+```
+Enshaei, N., Oikonomou, A., Rafiee, M.J., Afshar, P., Heidarian, S., Mohammadi, A., Plataniotis, K.N. and Naderkhani, F., 2021. COVID-Rate: An Automated Framework for Segmentation of COVID-19 Lesions from Chest CT Scans. arXiv preprint arXiv:2107.01527.
+```
