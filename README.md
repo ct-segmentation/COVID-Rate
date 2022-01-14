@@ -20,7 +20,6 @@ the input. A [U-Net based segmentation model](https://github.com/JoHof/lungmask)
 
 The detailed COVID-Facts's structure and methodology is explained in detail 
 at https://arxiv.org/pdf/2107.01527.
-<img src="https://github.com/ct-segmentation/COVID-Rate/blob/main/Figures/CT_Masks_Sample.PNG" width="750" height="300"/>
 
 Dataset: COVID-CT-Rate
 ---
@@ -35,6 +34,9 @@ without contrast enhancement and saved in the Digital Imaging and Communications
 Medicine (DICOM) format and the Hounsfield Unit.
 CT images have been selected from diffident parts of the lung (top, middle, and bottom) 
 with different infection rates to help the AI model better predict the infection regions on unseen CT images from the whole lung volume.
+
+Samples of CT images and their infection masks are shown in the following image.
+<img src="https://github.com/ct-segmentation/COVID-Rate/blob/main/Figures/CT_Masks_Sample.PNG" width="750" height="300"/>
 
 Lung Segmentation
 ---
