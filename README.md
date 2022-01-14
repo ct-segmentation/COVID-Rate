@@ -1,7 +1,7 @@
 COVID-Rate
 ===
 
-COVID-Rate: An Automated Framework for Segmentation of COVID-19 Lesions from Chest CT
+COVID-Rate: An Automated Framework for Segmentation of COVID-19 Lesions from Chest CT Images
 ---
 
 This research work introduces an open-access COVID-19 CT segmentation dataset containing 433 CT images from 82 patients that have been annotated by an expert radiologist. Second, a Deep Neural Network (DNN)-based framework is proposed, referred to as the COVID-Rate, that autonomously segments lung abnormalities associated with COVID-19 from chest CT images. Besides, it introduces an unsupervised enhancement approach that can mitigate the gap between the training set and test set and improve model generalization on CT images obtained by a different scanner, addressing a critical challenge in applying AI in medical imaging. A synthetic data generation (augmentation) method is applied that generates synthetic pairs of CT images and infection masks by inserting the infectious regions from COVID-19 CT images into healthy CT images, which improves the model performance by introducing more variability to the training set.
